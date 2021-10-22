@@ -1,0 +1,49 @@
+{
+    margin: 0;
+    padding: 0;
+    font-family: Bold italic
+}
+.header
+{
+    margin: 20px auto;
+    text-align: center;
+}
+{
+.header h1  
+    padding:: 10px 0;
+}
+.fa
+{
+    margin: 5px 10px;
+    font-size: 25px; I !important;
+    cursor: pointer;
+    color: white;
+
+}
+.fa:hover
+{
+    color: #000;
+}
+.row
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+#column1
+{
+    width: 50%
+}
+img
+{
+    width: 55%;
+    padding: 1%;
+}
+body{
+    background-color: lightcyan;
+    color: #000;
+}
+p.dotted
+{
+    border-style: dotted;
+    border-width: 5px;
+}
